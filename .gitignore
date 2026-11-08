@@ -1,0 +1,12 @@
+# 凭据，绝对不能提交
+tokens_local.txt
+wb_login_result.json
+wb_refresh_tokens.json
+WORKBUDDY_ACCESS_TOKEN.txt
+.env
+
+# 运行产物
+logs/
+__pycache__/
+*.pyc
+*.log
